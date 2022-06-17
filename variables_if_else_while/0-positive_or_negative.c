@@ -1,4 +1,4 @@
-#include <stdlib.h>
+#include <stdio.h>
 #include <time.h>
 /**
  * main - rand find the number aleatory
