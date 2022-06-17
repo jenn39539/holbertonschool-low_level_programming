@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - rand find the number aleatory
+ * main - the number aleatory
  *
  *Return: 0
  */
