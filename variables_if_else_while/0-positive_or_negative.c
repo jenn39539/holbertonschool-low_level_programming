@@ -19,7 +19,7 @@ else
 		printf("%i is zero\n", n);
 else
 
-	if (n > o)
+	if (n > 0)
 		printf("%i is positive\n", n);
 
 
