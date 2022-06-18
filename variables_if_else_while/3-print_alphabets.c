@@ -15,12 +15,10 @@ int main(void)
 	{
 		putchar(al);
 	}
-	for (alm 'A' ; alm <= 'Z' alm ; alm++)
+		for (alm 'A' ; alm <= 'Z' ; alm++)
 	{
 		putchar(alm);
 	}
-	putchar(alm);
-}
-putchar('\n');
-return (0);
+	putchar('\n');
+	return (0);
 }
