@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 /**
- * main - alphabet
+ *main - alphabet
  *
  * Return: 0
  */
@@ -15,7 +15,7 @@ int main(void)
 	{
 		putchar(al);
 	}
-		for (alm 'A' ; alm <= 'Z' ; alm++)
+		for (alm = 'A' ; alm <= 'Z' ; alm++)
 	{
 		putchar(alm);
 	}
