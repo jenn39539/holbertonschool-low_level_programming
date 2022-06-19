@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- *main - print base16
+ *main - Hexadecimal
  *
- *Return= 0
+ *Return: 0
  */
 
 int main(void)
